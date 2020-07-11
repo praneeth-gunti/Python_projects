@@ -22,6 +22,7 @@ pygame.display.set_caption("Space Invaders")
 icon = pygame.image.load('ufo.png')
 pygame.display.set_icon(icon)
 
+
 # Player
 playerImg = pygame.image.load('spaceship.png')
 playerX = 370
