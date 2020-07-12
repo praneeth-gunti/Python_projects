@@ -141,7 +141,7 @@ def push(player, dealer):
 
 while True:
     # Print an opening statement
-    print('Welcome to BlackJack!')
+    print('Welcome to BlackJack! Make your count value near to 21')
     
     # Create & shuffle the deck, deal two cards to each player
     deck = Deck()
